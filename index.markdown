@@ -5,4 +5,4 @@
 layout: home
 ---  
 
-- [Robomaster AutoAim Transform](./_posts/2024-10-05-robomaster-autoaim-transform.md)    
+<!-- - [Robomaster AutoAim Transform](./_posts/2024-10-05-robomaster-autoaim-transform.md)     -->
