@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
----
+---  
 
-## Blog Posts  
-- [Robomaster AutoAim Transform](./_posts/2024-10-05-robomaster-autoaim-transform.md)  
+- [Robomaster AutoAim Transform](./_posts/2024-10-05-robomaster-autoaim-transform.md)    

@@ -37,6 +37,9 @@ plugins:
 collections_dir: collections
 assets_dir: assets
 
+permalink: /:categories/:title/
+
+
 # Markdown Configuration
 markdown: kramdown
 highlighter: rouge
