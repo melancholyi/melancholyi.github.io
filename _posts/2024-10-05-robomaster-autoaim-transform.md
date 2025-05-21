@@ -5,7 +5,6 @@ date: 2024-10-05
 categories: robotics robomaster
 tags: [robomaster, autoaim, transform]
 ---
-
 # Robomaster AutoAim Transform
 
 # **Basic**
